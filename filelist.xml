@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Українська локалізація  Ukrainian localization" modversion="0.65" corepackage="False" steamworkshopid="2828450028" gameversion="0.21.6.0" altnames="Ukrainian language">
+  <UIStyle file="%ModDir%/UI/Ukrstyle.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanilla.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaNew.xml" />
+  <NPCConversations file="%ModDir%/NpcConversations/NpcConversations_Ukrainian.xml" />
+</contentpackage>
